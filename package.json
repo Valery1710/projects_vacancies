@@ -2,7 +2,7 @@
   "name": "Projects_Vacancies",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://ValeryMukhin1712.github.io/project_vacincies",
+  "homepage":"https://ValeryMukhin1712.github.io/project_vacancies",
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.0",
     "@testing-library/jest-dom": "^5.17.0",
